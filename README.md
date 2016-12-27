@@ -3,6 +3,8 @@
   使用.NET Framework对[Aria2](https://aria2.github.io)的二次开发，增加了图形界面。有可能会出现客户端可以运行但无法显示的情况，访问[WebUI](http://aria2c.com)进行控制。
   
 ========
+  下载：[release v1.0](https://github.com/JiaxunCai/Aria2GUI-for-Windows/releases/tag/v1.0)
+
   注意事项：
   
   使用Chrome插件可以将下载导出到Aria2GUI中
